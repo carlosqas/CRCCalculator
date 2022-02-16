@@ -1,0 +1,11 @@
+D:\Backup\GitHub\carlosqas\CRCCalculator\CRCCalculator\bin\Debug\CRCCalculator.exe.config
+D:\Backup\GitHub\carlosqas\CRCCalculator\CRCCalculator\bin\Debug\CRCCalculator.exe
+D:\Backup\GitHub\carlosqas\CRCCalculator\CRCCalculator\bin\Debug\CRCCalculator.pdb
+D:\Backup\GitHub\carlosqas\CRCCalculator\CRCCalculator\obj\Debug\CRCCalculator.csproj.AssemblyReference.cache
+D:\Backup\GitHub\carlosqas\CRCCalculator\CRCCalculator\obj\Debug\CRCCalculator.csproj.SuggestedBindingRedirects.cache
+D:\Backup\GitHub\carlosqas\CRCCalculator\CRCCalculator\obj\Debug\CRCCalculator.Form1.resources
+D:\Backup\GitHub\carlosqas\CRCCalculator\CRCCalculator\obj\Debug\CRCCalculator.Properties.Resources.resources
+D:\Backup\GitHub\carlosqas\CRCCalculator\CRCCalculator\obj\Debug\CRCCalculator.csproj.GenerateResource.cache
+D:\Backup\GitHub\carlosqas\CRCCalculator\CRCCalculator\obj\Debug\CRCCalculator.csproj.CoreCompileInputs.cache
+D:\Backup\GitHub\carlosqas\CRCCalculator\CRCCalculator\obj\Debug\CRCCalculator.exe
+D:\Backup\GitHub\carlosqas\CRCCalculator\CRCCalculator\obj\Debug\CRCCalculator.pdb
